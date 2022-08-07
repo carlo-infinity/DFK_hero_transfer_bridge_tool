@@ -1,0 +1,53 @@
+##################################################################
+# Input your hero id here to send, 1 hero id per line
+# You may add text right after the hero id as long it has a space
+# of comma
+#
+# eg: 
+# 212323 <- my gen 0
+#  42069 <- my worker 
+#
+# - Line started with # is a comment block and will be ignored
+# - Invalid line will cause error and terminate the program
+#
+# You may copy the text from csv or spreadsheet also, please see
+# example in the example folder
+#
+# Note: For CV summoned heroes, you will need to add a trillion
+# to the id, i.e., add 1000000000000 (12 zeroes) to the hero ID 
+# shown in game
+#
+##################################################################
+
+# Heroes id to be sent below
+
+223650
+251877
+180056
+191587
+198688
+200700
+203860
+211918
+217331
+222125
+222299
+230572
+265236
+192552
+193278
+204526
+205175
+205420
+205706
+217482
+220499
+224758
+230461
+234155
+238941
+185592
+186414
+192977
+196703
+206341

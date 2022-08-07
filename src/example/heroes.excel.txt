@@ -1,0 +1,56 @@
+##################################################################
+# Input your hero id here to send, 1 hero id per line
+# You may add text right after the hero id as long it has a space
+# of comma
+#
+# eg: 
+# 212323 <- my gen 0
+#  42069 <- my worker 
+#
+# - Line started with # is a comment block and will be ignored
+# - Invalid line will cause error and terminate the program
+#
+# You may copy the text from csv or spreadsheet also, please see
+# example in the example folder
+#
+# Note: For CV summoned heroes, you will need to add a trillion
+# to the id, i.e., add 1000000000000 (12 zeroes) to the hero ID 
+# shown in game
+#
+##################################################################
+
+# The following is copied from excel spreadsheet exported from 
+# https://dfkanalytics.com/Wallet 
+# Note the hero id must be the first thing on each line
+
+188704	Seer	Archer	desert	2	mining
+195411	Wizard	Berserker	island	1	gardening
+196882	Knight	Monk	desert	2	gardening
+197138	Pirate	Warrior	plains	1	gardening
+202621	Seer	Thief	forest	1	mining
+202881	Archer	Wizard	forest	1	gardening
+203550	Wizard	Archer	city	1	gardening
+204022	Pirate	Knight	plains	1	gardening
+205048	Monk	Pirate	mountains	1	gardening
+208232	Warrior	Monk	arctic	1	foraging
+210512	Berserker	Wizard	mountains	1	gardening
+211702	Monk	Archer	swamp	1	gardening
+214667	Archer	Thief	city	1	gardening
+214694	Wizard	Priest	island	2	gardening
+219481	Knight	Berserker	desert	1	mining
+221399	Knight	Monk	arctic	1	gardening
+226819	Monk	Paladin	desert	2	gardening
+235563	Warrior	Archer	mountains	1	foraging
+235567	Pirate	Archer	island	1	foraging
+237640	Monk	Wizard	swamp	1	fishing
+240743	Thief	Monk	city	1	gardening
+241725	Thief	Knight	island	1	gardening
+242000	Pirate	Wizard	forest	1	gardening
+243256	Archer	Wizard	city	1	gardening
+244438	Priest	Pirate	plains	1	gardening
+244440	Thief	Pirate	arctic	1	gardening
+245391	Priest	Wizard	arctic	1	gardening
+245657	Archer	Knight	arctic	1	gardening
+245680	Paladin	Warrior	swamp	1	gardening
+246495	Thief	Pirate	forest	1	mining
+246543	Ninja	Monk	swamp	1	fishing

@@ -1,0 +1,35 @@
+##################################################################
+# Input your hero id here to send, 1 hero id per line
+# You may add text right after the hero id as long it has a space
+# of comma
+#
+# eg: 
+# 212323 <- my gen 0
+#  42069 <- my worker 
+#
+# - Line started with # is a comment block and will be ignored
+# - Invalid line will cause error and terminate the program
+#
+# You may copy the text from csv or spreadsheet also, please see
+# example in the example folder
+#
+# Note: For CV summoned heroes, you will need to add a trillion
+# to the id, i.e., add 1000000000000 (12 zeroes) to the hero ID 
+# shown in game
+#
+##################################################################
+
+# The following is copied from the csv exported from 
+# https://dfkanalytics.com/Wallet 
+#
+# Make sure to remove the other columns before exporting so that 
+# the hero id is on the first column
+# 
+
+223650,0,Priest,Thief,forest,1,0,2,7,VIT,STR,13,fishing,,6,wind,1.00,0.479,Basic3,Basic5,Basic4,Basic8,Sethus Commonfollower
+251877,0,Warrior,Priest,island,1,0,2,4,AGI,STR,20,fishing,,6,wind,5.50,0.568,Basic4,Basic2,Basic6,Basic7,Allie Crestarm
+180056,0,Monk,Thief,island,1,0,2,3,STR,VIT,11,fishing,,7,light,1.20,0.551,Basic2,Basic4,Basic7,Basic8,Thaphunlon Moonbash
+191587,0,Summoner,Archer,mountains,1,0,4,0,STR,WIS,19,fishing,,7,water,4.30,0.742,Basic6,Basic4,Advanced1,Basic1,Ailondos Burningthorne
+198688,0,Seer,Berserker,forest,1,0,1,6,VIT,DEX,13,fishing,,7,fire,1.30,0.465,Basic7,Basic6,Basic7,Basic2,Rill Downflow
+200700,0,Berserker,Thief,plains,1,0,1,5,DEX,STR,17,fishing,,7,dark,1.20,0.581,Basic4,Basic3,Basic5,Basic6,Rullestiel Wildgem
+203860,0,Warrior,Archer,desert,1,0,2,5,STR,STR,17,fishing,,7,wind,1.50,0.612,Advanced1,Basic3,Basic5,Basic2,Edénghann Earthenprowl
