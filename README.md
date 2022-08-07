@@ -21,6 +21,12 @@ Executables for Windows, MacOS and Ubuntu are provided below together with their
 [Ubuntu](https://github.com/carlo-infinity/DFK_hero_transfer_bridge_tool/blob/main/hero-transfer-ubuntu.zip)  
 `b0fffd98c258d8eaf50bd722172e69570095f6eadd3070daa374e9bd1eeb4e2a`
 
+
+#### Dependency
+
+If you want to use the code and modify for personal use, you will also need to get the [open source dfktools](https://github.com/0rtis/dfktools). The version used by our script is freezed on 22 July 2022. If you are using a newer version, you might need to modify based on the [changes](https://github.com/0rtis/dfktools/commits/master). Thank you 0rtis for providing such a wonderful tool.
+
+
 #### Configuration
 
 Change the settings in config.ini, you will need to open it by any text editor (notepad, textedit, etc). Adjust the settings based on your need. For bridging, you will need to set the receiver address to be the same as sender address, as well as whether you are bridging from which realm to which (serendale or crystalvale). Example below, the other settings are optional and you can just use the default.
