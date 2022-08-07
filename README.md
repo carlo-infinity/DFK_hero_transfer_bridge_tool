@@ -1,2 +1,2 @@
-# DFK_hero_transfer_bridge_tool
+# DFK hero transfer bridge tool
 Tool to transfer and bridge hero
