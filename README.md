@@ -1,3 +1,6 @@
+#### !! Please be noted this tool does not work for bridging to/from Klaytn chain (Serendale 2)
+
+
 ### DFK hero transfer bridge tool
 
 Welcome. This is a simple tool to mass transfer and bridge heroes for the DFK game. It is a free tool provided by Carlo Infinity, the founder of the DFK auto FARM waifu project ([Discord](https://discord.com/invite/4kqXg5nBYe)). The tool is built with ease of use in mind, please do your due diligence and exercise standard security procedure when using the tool. Due to it being a free tool, support is not provided, please make sure you know what you are doing. Read all documents, including on how to use from readme.txt
